@@ -1,8 +1,14 @@
-ALT-H1 Instgram Referal program
+# Instgram Referal program
 
-### A nodejs serverside code to track people who used given referal link
+### A nodejs serverside code to track people who used particular referal link
 
-#### Project made 
+##### Project made for Hapiens digital to track their instgram referal links
+
+Instgram api 
+
+'''' 
+var url="https://www.instagram.com/"+query+"/?__a=1";
+''''
 
 
 dependencise needed 
