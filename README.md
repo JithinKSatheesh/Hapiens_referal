@@ -6,9 +6,9 @@
 
 Instgram api 
 
-'''' 
+````
 var url="https://www.instagram.com/"+query+"/?__a=1";
-''''
+````
 
 
 dependencise needed 
