@@ -1,6 +1,6 @@
 # Instgram Referal program
 
-### A nodejs serverside code to track people who used particular referal link
+### A nodejs server side code to track people who visit instgram using given referal link
 
 ##### Project made for Hapiens digital to track their instgram referal links
 
